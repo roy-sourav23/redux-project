@@ -9,6 +9,7 @@ const store = configureStore({
   reducer: {
     // mycounter: countReducer,
     // posts: postsReducer,
+
     register: registerReducer,
     login: loginReducer,
     userProfile: userProfileReducer,
