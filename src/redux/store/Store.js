@@ -17,3 +17,5 @@ const store = configureStore({
 });
 
 export default store;
+
+// changes also made here
